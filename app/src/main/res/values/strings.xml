@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_open_fragment_2">Open Fragment 2</string>
+    <string name="btn_open_fragment_1">Open Fragment 1</string>
+</resources>
